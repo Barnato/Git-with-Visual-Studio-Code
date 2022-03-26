@@ -14,7 +14,7 @@ create new git repository
 
 `git push`
 
-push changes from local branch to a remote repository.
+push changes from local branch to remote repository.
 
 
 
@@ -23,4 +23,6 @@ push changes from local branch to a remote repository.
 >
 > also use Visual Studio Code interface to do the same tasks as the commands as above.
 
-![](2022-03-24-22-15-35.png).
+![basic-git-commands](/assets/basic-git-commands.png)
+
+
