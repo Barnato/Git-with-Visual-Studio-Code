@@ -3,8 +3,8 @@
 * Extension:
     * commits
     * History
-    * rmeotes
-    * comapre branches
+    * remotes
+    * compare branches with each other
     * search commits by message, author, sha or changes
 
     ![git_lens](/assets/git_lens.png)
